@@ -10,4 +10,4 @@ dependencies:
   - pandas
   - tensorflow
   - oauth2client
-  - googleapiclient
+  - google-api-python-client
