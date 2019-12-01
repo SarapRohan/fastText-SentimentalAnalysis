@@ -1,0 +1,13 @@
+name: env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - nltk
+  - seaborn
+  - matplotlib
+  - keras
+  - pandas
+  - tensorflow
+  - oauth2client
+  - googleapiclient
