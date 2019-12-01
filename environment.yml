@@ -11,5 +11,4 @@ dependencies:
   - tensorflow
   - oauth2client
   - google-api-python-client
-  - sklearn
   - tqdm
