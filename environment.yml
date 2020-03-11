@@ -13,3 +13,4 @@ dependencies:
   - google-api-python-client
   - tqdm
   - scikit-learn
+  - gensim
